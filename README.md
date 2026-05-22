@@ -129,7 +129,7 @@ Si davantage de temps et de données étaient disponibles, ce projet pourrait ê
 
 Voici le rendu visuel des tendances clés extraites de notre base de données :
 
-![Évolution des délais de traitement](dashboard.png)
+![Évolution des délais de traitement](dashboard-2.png)
 
 L'analyse comparative des délais de traitement entre le Québec et l'Ontario (2022-2024) met en lumière une divergence opérationnelle majeure entre les deux provinces.
 
