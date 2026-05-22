@@ -120,8 +120,28 @@ Si davantage de temps et de données étaient disponibles, ce projet pourrait ê
 - une étude plus approfondie de la mobilité interprovinciale ;
 - des visualisations interactives avancées ;
 - une comparaison avec d’autres provinces canadiennes.
+  
 
 ---
+---
+
+##  Interprétation des Résultats : Analyse des Délais de Traitement
+
+Voici le rendu visuel des tendances clés extraites de notre base de données :
+
+![Évolution des délais de traitement](dashboard.png)
+
+L'analyse comparative des délais de traitement entre le Québec et l'Ontario (2022-2024) met en lumière une divergence opérationnelle majeure entre les deux provinces.
+
+### 1. Québec : Un engorgement structurel
+On observe une hausse continue et marquée des délais de traitement au Québec, qui passent de **18 mois en 2022 à 26 mois en 2024**. 
+* **Facteur explicatif :** Cette tendance reflète l'effet de goulot d'étranglement provoqué par des politiques de sélection plus restrictives et l'imposition de plafonds d'admissions annuelles. Les volumes de demandes d'immigration dépassent la capacité d'absorption réglementaire, ce qui fait gonfler l'inventaire des dossiers en attente et étire les délais.
+
+### 2. Ontario : Une fluidité opérationnelle
+À l'inverse, l'Ontario maintient une stabilité remarquable avec un délai moyen constant de **6 mois** sur toute la période.
+* **Facteur explicatif :** Le modèle ontarien démontre une plus grande agilité face aux volumes élevés, s'appuyant sur des processus d'admissions en continu (via le système Entrée express fédérale) qui alignent le rythme de traitement sur les besoins immédiats du marché du travail, évitant ainsi l'accumulation de dossiers.
+
+> 💡 **Conclusion  :** Le fossé qui se creuse entre les deux courbes illustre parfaitement le coût opérationnel d'une politique de gestion des flux par quotas stricts (Québec) face à une approche axée sur la vitesse de traitement et la demande du marché (Ontario).
 
 #  Auteur
 
